@@ -1,2 +1,3 @@
-#Studying prograaming patterns
-##State && Singleton
+Studying prograaming pattern
+
+State && Singleton
